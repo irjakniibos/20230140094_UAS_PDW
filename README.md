@@ -22,6 +22,8 @@
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 24" src="https://github.com/user-attachments/assets/7a0b176a-693c-45eb-84ee-92ff4bc8edb1" />
 <h4>UI Laporan Masuk</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 30" src="https://github.com/user-attachments/assets/f02baa95-493c-48b6-8a07-8b4e72abb393" />
+<h4>UI Laporan Detail Mahasiswa</h4>
+<img width="1470" alt="Screenshot 2025-07-06 at 16 48 11" src="https://github.com/user-attachments/assets/52cfc3d8-15c7-4186-adcb-30403bff924e" />
 <h4>UI Kelola Pengguna</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 40" src="https://github.com/user-attachments/assets/5c89e3c8-d545-4435-a0ee-c979302d4ebf" />
 
