@@ -8,8 +8,9 @@
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 24" src="https://github.com/user-attachments/assets/7a0b176a-693c-45eb-84ee-92ff4bc8edb1" />
 <h4>Kelola Praktikum</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 16" src="https://github.com/user-attachments/assets/d4b61dc6-c4ec-4b1e-8c7f-bc6cab5a15c5" />
-<h4>Kelola Dashboard</h4>
+<h4>UI Dashboard</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 10" src="https://github.com/user-attachments/assets/360468d7-8dd9-4fca-afc0-31c1ac7c6513" />
+<h4>UI Login</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 37 46" src="https://github.com/user-attachments/assets/891d7660-72ac-4f9e-be6a-d71f7d82c7f2" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 37 36" src="https://github.com/user-attachments/assets/eb26b0a3-bb9d-44ae-bd4b-77690a74a997" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 37 26" src="https://github.com/user-attachments/assets/dddc5562-318c-4f92-8f5b-258996d2dc00" />
