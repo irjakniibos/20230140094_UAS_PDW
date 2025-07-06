@@ -1,5 +1,6 @@
 <h4>Deskripsi</h4>
 <p>Ini adalah screenshoot dari hasil webnya, by:irza Yaumil syahrar</p>
+<h4>Praktikum</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 40" src="https://github.com/user-attachments/assets/5c89e3c8-d545-4435-a0ee-c979302d4ebf" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 30" src="https://github.com/user-attachments/assets/f02baa95-493c-48b6-8a07-8b4e72abb393" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 24" src="https://github.com/user-attachments/assets/7a0b176a-693c-45eb-84ee-92ff4bc8edb1" />
