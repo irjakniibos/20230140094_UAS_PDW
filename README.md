@@ -2,7 +2,9 @@
 <p>Ini adalah screenshoot dari hasil webnya, by:irza Yaumil syahrar</p>
 <h4>Kelola Pengguna</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 40" src="https://github.com/user-attachments/assets/5c89e3c8-d545-4435-a0ee-c979302d4ebf" />
+<h4>Kelola Laporan Masuk</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 30" src="https://github.com/user-attachments/assets/f02baa95-493c-48b6-8a07-8b4e72abb393" />
+<h4>Kelola Manajemen Modul</h4>
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 24" src="https://github.com/user-attachments/assets/7a0b176a-693c-45eb-84ee-92ff4bc8edb1" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 16" src="https://github.com/user-attachments/assets/d4b61dc6-c4ec-4b1e-8c7f-bc6cab5a15c5" />
 <img width="1470" alt="Screenshot 2025-07-06 at 15 38 10" src="https://github.com/user-attachments/assets/360468d7-8dd9-4fca-afc0-31c1ac7c6513" />
